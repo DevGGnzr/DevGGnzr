@@ -1,24 +1,17 @@
-# # Olá, sou Gilberto Ganzer 👋
+# Olá, sou Gilberto Ganzer 👋  
+🔧 Desenvolvedor em constante aprendizado  
+🚀 Estudante de Análise e Desenvolvimento de Sistemas  
 
-🔧 **Desenvolvedor em constante aprendizado**  
-🚀 **Estudante de Análise e Desenvolvimento de Sistemas**
+**Tecnologias que já aprendi 🛠️**  
+🌐 HTML  
+🎨 CSS  
+🛠️ Bootstrap  
+💻 Básico de C  
 
-## Tecnologias que já aprendi 🛠️
+**🔄 Status de aprendizado 🚧**  
+🚀 Desenvolvimento em andamento...  
+"Em construção... Aprendendo, evoluindo e criando!"
 
-🌐 **HTML**
-🎨 **CSS**
-🛠️ **Bootstrap**
-💻 **Básico de C**
-
----
-
-## 🔄 Status de aprendizado 🚧
-
-### 🚀 **Desenvolvimento em andamento...**
-
-> "Em construção... Aprendendo, evoluindo e criando!"  
-
-```plaintext
-[########--------------------] 50% - *HTML & CSS*
-[####------------------------] 40% - *Bootstrap*
-[##--------------------------] 20% - *C (básico)*
+[########--------------------] 50% - *HTML & CSS*  
+[####------------------------] 40% - *Bootstrap*  
+[##--------------------------] 20% - *C (básico)*  
