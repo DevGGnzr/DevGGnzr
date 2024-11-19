@@ -5,10 +5,10 @@
 
 ## Tecnologias que já aprendi 🛠️
 
-- **HTML**  
-- **CSS**  
-- **Bootstrap**  
-- **Básico de C**
+🌐 **HTML**
+🎨 **CSS**
+🛠️ **Bootstrap**
+💻 **Básico de C**
 
 ---
 
