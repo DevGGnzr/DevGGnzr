@@ -4,14 +4,8 @@
 🚀 **Estudante de Análise e Desenvolvimento de Sistemas**
 
 ## 🌱 Atualmente aprendendo:
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![HTML Progress](https://img.shields.io/badge/HTML-80%25-brightgreen)  
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)   
-  ![CSS](https://img.shields.io/badge/CSS-60%25-yellowgreen)  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-40%25-orange)  
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-  ![C](https://img.shields.io/badge/C-20%25-red)  
-  
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white). ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white).  [Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white). ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white). 
+ 
 
 ## 📚 Sobre mim:
 Sou apaixonado por tecnologia e estou sempre em busca de novos desafios.  
