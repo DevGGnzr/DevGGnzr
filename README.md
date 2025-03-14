@@ -24,4 +24,4 @@ Acredito que o aprendizado contínuo é fundamental para evoluir como desenvolve
 "Em construção... Aprendendo, evoluindo e criando!"
 
 ## 📊 Estatísticas:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevGGanzer&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevGGnzr&show_icons=true&hide_title=true)
