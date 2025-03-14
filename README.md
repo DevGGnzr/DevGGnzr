@@ -18,7 +18,7 @@ Acredito que o aprendizado contínuo é fundamental para evoluir como desenvolve
 - Colaborar com outros desenvolvedores para criar soluções inovadoras.
 
 ## 🔗 Links:
-- [GitHub](https://github.com/DevGGanzer)
+- [GitHub](https://github.com/DevGGnzr)
 - [LinkedIn](https://www.linkedin.com/in/gganzer/)
 
 "Em construção... Aprendendo, evoluindo e criando!"
